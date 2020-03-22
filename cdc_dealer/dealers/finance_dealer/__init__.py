@@ -1,0 +1,1 @@
+"""This modules controls who and when receives the finance data"""

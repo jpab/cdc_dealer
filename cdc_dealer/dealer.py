@@ -1,0 +1,1 @@
+"""Generate cafca messages for each consumer"""

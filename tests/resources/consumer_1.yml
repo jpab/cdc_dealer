@@ -1,0 +1,11 @@
+table_1:
+  fields_track:
+    - amount
+    - quantity
+    - name
+  fields_out:
+    - id
+    - date
+    - name
+    - ammount
+    - quantity
